@@ -1,10 +1,6 @@
-## Welcome to GitHub Pages
+I use a combination of physics-based modeling, computational science and data science in my work to design new materials and processes.  
 
-You can use the [editor on GitHub](https://github.com/a-mohan1/a-mohan1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### [LinkedIn](www.linkedin.com/in/arunamohan)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
