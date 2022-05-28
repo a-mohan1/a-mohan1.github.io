@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
+layout: page
 title: Aruna Mohan's GitHub page
 description: Some of my codes and projects!
+permalink: /about/
