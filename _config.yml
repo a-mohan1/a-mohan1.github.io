@@ -1,10 +1,15 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 logo: IMG_0722.JPEG
 title: Aruna Mohan
-minima:
-  date_format: "%b %-d, %Y"
-  social_links:
-    linkedin: arunamohan 
-    github:  a-mohan1
-
-
+repository: "a-mohan1/a-mohan1.github.io"
+author:
+  name     : "Aruna Mohan"
+  avatar   : "IMG_0722.JPEG"
+  bio      : " "
+  location : "Boston, MA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/a-mohan1"
+ 
