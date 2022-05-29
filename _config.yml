@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 logo: IMG_0722.JPEG
 title: Aruna Mohan
-github_username: a-mohan1
-linkedin_username: arunamohan
+social_links:
+   linkedin: arunamohan 
+   github:  a-mohan1
 
 
