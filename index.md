@@ -7,28 +7,19 @@ I leverage data science and computational science in my work to design new mater
 
 I earned my Ph.D. from MIT, where I conducted research on the mathematical modeling and stochastic simulation of complex fluids and polymers. Here is a video from a stochastic simulation:
 
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe width="300" height="150"
-          src="https://youtube.com/embed/3zoMJs3IeZY"
-          frameborder="0"
-          allow="autoplay; encrypted-media"
-  </iframe>
-</div>
 
 <div class="video">
     <figure>
-        <iframe width="320" height="240" src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0" allowfullscreen></iframe>
+        <iframe width="120" height="80" src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0"></iframe>
     </figure>
 </div>
 
 As a postdoc, I developed stochastic and field-theoretical models, and reduced-order Molecular Dynamics simulations using C++ LAMMPS. Here is another video from a stochastic simulation:
 
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe width="300" height="150"
-          src="https://youtu.be/ZdjoFG8iMJg"
-          frameborder="0"
-          allow="autoplay; encrypted-media"
-  </iframe>
+<div class="video">
+    <figure>
+        <iframe width="80" height="80" src="//www.youtube.com/embed/3zoMJs3IeZY" frameborder="0"></iframe>
+    </figure>
 </div>
 
 
