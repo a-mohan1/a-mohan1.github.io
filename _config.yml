@@ -1,5 +1,4 @@
-theme: "minimal-mistakes-jekyll"
-remote_theme: a-mohan1/minimal-mistakes
+remote_theme: "a-mohan1/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 author:
   name   : "Aruna Mohan"
