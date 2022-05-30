@@ -95,7 +95,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aruna Mohan" # *name is a YAML reference pointing to the &anchor earlier
+  name: "Aruna Mohan" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "IMG_0722.JPEG"
   bio              : "Ph.D., Massachusetts Institute of Technology"
   location         : "Boston, MA"
