@@ -5,8 +5,6 @@ author_profile: true
 
 I leverage physics-based modeling, computational science and data science in my work to design new materials and processes.  
 
-#### [LinkedIn](https://www.linkedin.com/in/arunamohan)
-
 Here are some of my personal projects:
 
 - [Brain tumor classification using Convolutional Neural Networks](https://www.linkedin.com/pulse/deep-learning-brain-tumor-classification-aruna-mohan/)
