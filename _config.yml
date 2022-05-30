@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
+  name: "Aruna Mohan"
+  avatar: "IMG_0722.JPEG"
+  bio: "Ph.D., Massachusetts Institute of Technology" # Note: Markdown is allowed
+  location: "Boston, MA"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
