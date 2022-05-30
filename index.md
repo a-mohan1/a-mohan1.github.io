@@ -1,3 +1,11 @@
+---
+layout: archive
+classes: wide
+author_profile: true
+sidebar: docs
+header:
+  image: #
+---
 
 I leverage physics-based modeling, computational science and data science in my work to design new materials and processes.  
 
