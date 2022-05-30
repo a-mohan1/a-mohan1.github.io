@@ -3,7 +3,9 @@ layout: single
 author_profile: true
 ---
 
-I leverage physics-based modeling, computational science and data science in my work to design new materials and processes.  
+I leverage data science and computational science in my work to design new materials and processes.  
+
+I earned my Ph.D. from MIT, where I conducted research on the mathematical modeling and stochastic simulation of cmplex fluids and polymers.
 
 Here are some of my personal projects:
 
