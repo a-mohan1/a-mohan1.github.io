@@ -1,6 +1,14 @@
 theme: "minimal-mistakes-jekyll"
 remote_theme: a-mohan1/minimal-mistakes
-minimal_mistakes_skin: "dark" 
+minimal_mistakes_skin: "dark"
+author:
+  name   : "Aruna Mohan"
+  avatar : "IMG_0722.JPEG"
+  bio    : >-
+    I use computaional science and data science
+  location: "Boston, MA"
+  linkedin: "arunamohan"
+  github: "a-mohan1"
 footer:
   links:
     - label: "GitHub"
