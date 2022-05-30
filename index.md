@@ -10,7 +10,7 @@ I earned my Ph.D. from MIT, where I conducted research on the mathematical model
 
 <div class="video">
     <figure>
-        <iframe width="120" height="80" src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0"></iframe>
+        <iframe width="80" height="60" src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0"></iframe>
     </figure>
 </div>
 
