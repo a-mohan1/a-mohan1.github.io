@@ -1,6 +1,6 @@
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" 
+minimal_mistakes_skin    : "aqua" 
 author:
   name             : "Aruna Mohan"
   avatar           : "IMG_0722.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
