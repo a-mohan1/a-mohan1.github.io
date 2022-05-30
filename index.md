@@ -10,7 +10,7 @@ I earned my Ph.D. from MIT, where I conducted research on the mathematical model
 
 <div class="video">
     <figure>
-        <iframe width="80" height="60" src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0"></iframe>
+        <iframe width="20%" height="20%" src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0"></iframe>
     </figure>
 </div>
 
@@ -18,7 +18,7 @@ As a postdoc, I developed stochastic and field-theoretical models, and reduced-o
 
 <div class="video">
     <figure>
-        <iframe width="20" height="20" src="//www.youtube.com/embed/3zoMJs3IeZY" frameborder="0"></iframe>
+        <iframe width="20%" height="20%" src="//www.youtube.com/embed/3zoMJs3IeZY" frameborder="0"></iframe>
     </figure>
 </div>
 
