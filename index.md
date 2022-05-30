@@ -9,10 +9,16 @@ I earned my Ph.D. from MIT, where I conducted research on the mathematical model
 
 <div class="embed-responsive embed-responsive-4by3">
   <iframe width="300" height="150"
-          src="https://youtube.com/shorts/3zoMJs3IeZY"
+          src="https://youtube.com/embed/3zoMJs3IeZY"
           frameborder="0"
           allow="autoplay; encrypted-media"
   </iframe>
+</div>
+
+<div class="video">
+    <figure>
+        <iframe width="640" height="480" src="//www.youtube.com/embed/prFohBWIdQg" frameborder="0" allowfullscreen></iframe>
+    </figure>
 </div>
 
 As a postdoc, I developed stochastic and field-theoretical models, and reduced-order Molecular Dynamics simulations using C++ LAMMPS. Here is another video from a stochastic simulation:
