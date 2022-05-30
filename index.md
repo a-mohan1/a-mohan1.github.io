@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 classes: wide
 author_profile: true
 ---
