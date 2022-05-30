@@ -15,7 +15,19 @@ I earned my Ph.D. from MIT, where I conducted research on the mathematical model
   </iframe>
 </div>
 
-As a postdoc, I developed stochastic and field-theoretical models, and reduced-order Molecular Dynamics simulations using C++ LAMMPS. [Here](/assets/images/n200pb3.mpg) is another video from a stochastic simulation. More recenly, I earned a MicroMasters in Statistics and Data Science from MITx. [Here](/assets/images/n200pb3.mpg) is another video of particle dynamics, this time based on a Gaussian flow simulation.
+As a postdoc, I developed stochastic and field-theoretical models, and reduced-order Molecular Dynamics simulations using C++ LAMMPS. Here is another video from a stochastic simulation:
+
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe width="300" height="150"
+          src="https://youtu.be/ZdjoFG8iMJg"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+  </iframe>
+</div>
+
+
+
+More recently, I earned the MicroMasters in Statistics and Data Science from MITx. [Here](/assets/images/n200pb3.mpg) is another video of particle dynamics, this time based on a Gaussian flow simulation.
 
 Here are some of my personal projects:
 
