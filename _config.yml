@@ -1,3 +1,8 @@
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" 
+author:
+  name             : "Aruna Mohan"
+  avatar           : "IMG_0722.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "<b>Ph.D., Massachusetts Institute of Technology.</b>"            
+  location         : "Boston, MA"
