@@ -9,15 +9,15 @@ I earned my Ph.D. at MIT, where I conducted research on the mathematical modelin
 
 <div class="video">
     <figure>
-        <iframe width="20" height="15" src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0"></iframe>
+        <iframe width="100" height="60" src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0"></iframe>
     </figure>
 </div>
 
-As a postdoc, I developed stochastic and field-theoretical models, and reduced-order Molecular Dynamics (MD) simulations using C++ LAMMPS. Here is another video from one of my MD simulations:
+As a postdoc, I developed stochastic and field-theoretical models, and reduced-order Molecular Dynamics (MD) simulations using C++ LAMMPS. Here is a video from one of my MD simulations:
 
 <div class="video">
     <figure>
-        <iframe width="10" height="10" src="//www.youtube.com/embed/3zoMJs3IeZY" frameborder="0"></iframe>
+        <iframe width="60" height="60" src="//www.youtube.com/embed/3zoMJs3IeZY" frameborder="0"></iframe>
     </figure>
 </div>
 
@@ -25,7 +25,7 @@ More recently, I completed the MicroMasters program in Statistics and Data Scien
 
 <div class="video">
     <figure>
-        <iframe width="20" height="20" src="//www.youtube.com/embed/qZxby-lWuBU" frameborder="0"></iframe>
+        <iframe width="60" height="60" src="//www.youtube.com/embed/qZxby-lWuBU" frameborder="0"></iframe>
     </figure>
 </div>
 
