@@ -5,7 +5,7 @@ author_profile: true
 
 I leverage data science and computational science in my work to design new materials and processes.  
 
-I earned my Ph.D. from MIT, where I conducted research on the mathematical modeling and stochastic simulation of complex fluids and polymers.
+I earned my Ph.D. from MIT, where I conducted research on the mathematical modeling and stochastic simulation of complex fluids and polymers. [Here](/assets/images/mla3d1p20m.mpg) is a video from a stochastic simulation. As a postdoc, I developed stochastic and field-theoretical models, and reduced-order Molecular Dynamics simulations using C++ LAMMPS. [Here](/assets/images/n200pb3.mpg) is another video from a stochastic simulation. More recenly, I earned a MicroMasters in Statistics and Data Science from MITx. [Here](/assets/images/n200pb3.mpg) is another video of particle dynamics, this time based on a Gaussian flow simulation.
 
 Here are some of my personal projects:
 
