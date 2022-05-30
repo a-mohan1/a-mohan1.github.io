@@ -95,24 +95,23 @@ analytics:
 
 # Site Author
 author:
-  name: "Aruna Mohan" # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "IMG_0722.JPEG"
-  bio              : "Ph.D., Massachusetts Institute of Technology"
-  location         : "Boston, MA"
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Somewhere"
   links:
-    #- label: "Made Mistakes"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://mademistakes.com"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/mmistakes"
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/a-mohan1"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/mmistakes"
-
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
 
 # Site Footer
 footer:
