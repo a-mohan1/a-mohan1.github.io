@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -91,7 +91,6 @@ analytics:
   google:
     tracking_id          : #"UA-2011187-3" # Replace this with your ID, or delete
     anonymize_ip         : true
-
 
 # Site Author
 author:
