@@ -1,5 +1,7 @@
 ---
 layout: single
+header:
+  image: "background2.png"
 author_profile: true
 ---
 
