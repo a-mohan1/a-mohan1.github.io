@@ -1,7 +1,7 @@
 ---
 layout: single
 header:
-  image: "background2.png"
+  overlay_image: "background2.png"
 author_profile: true
 ---
 
@@ -18,16 +18,16 @@ I earned my Ph.D. at MIT, where I conducted research on the mathematical modelin
 As a postdoc, I developed stochastic and field-theoretical models, and reduced-order Molecular Dynamics (MD) simulations using C++ LAMMPS. Here is a video from one of my MD simulations:
 
 <div class="video">
-    <figure>
-        <iframe width="80" height="40" src="//www.youtube.com/embed/3zoMJs3IeZY" frameborder="0"></iframe>
+    <figure style="width: 400px" class="align-center">
+        <iframe src="//www.youtube.com/embed/3zoMJs3IeZY" frameborder="0"></iframe>
     </figure>
 </div>
 
 More recently, I completed the MicroMasters program in Statistics and Data Science from MITx. Here is a video I made of particle dynamics, this time based on a Gaussian flow simulation.
 
 <div class="video">
-    <figure>
-        <iframe width="80" height="40" src="//www.youtube.com/embed/qZxby-lWuBU" frameborder="0"></iframe>
+    <figure style="width: 400px" class="align-center">
+        <iframe src="//www.youtube.com/embed/qZxby-lWuBU" frameborder="0"></iframe>
     </figure>
 </div>
 
