@@ -10,7 +10,7 @@ I leverage data science and computational science in my work to design new mater
 I earned my Ph.D. at MIT, where I conducted research on the mathematical modeling and stochastic simulation of complex fluids and polymers. Here is a video from one of my stochastic simulations:
 
 <div class="video">
-    <figure style="width: 200px" class="align-center">
+    <figure style="width: 400px" class="align-center">
         <iframe src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0"></iframe>
     </figure>
 </div>
