@@ -24,7 +24,7 @@ As a postdoc, I developed stochastic and field-theoretical models, and reduced-o
     </figure>
 </div>
 
-More recently, I completed the MicroMasters program in Statistics and Data Science from MITx. Here is a video I made of particle dynamics, this time based on a Gaussian flow simulation.
+More recently, I completed the MicroMasters program in Statistics and Data Science from MITx. Here is a video I made of particle dynamics, this time based on a Gaussian process flow simulation.
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
@@ -32,7 +32,8 @@ More recently, I completed the MicroMasters program in Statistics and Data Scien
     </figure>
 </div>
 
-Here are some of my personal data science projects:
+
+In my work in the battery industry, and previously in the materials and petrochemicals industry, I use a combination of computational techniques (including physics-based modeling, molecular simulations and finite element based methods), statistical data analysis, data science and machine learning to design and optimize products and processes. I also work on personal data science projects. Here are some of them:
 
 - [Brain tumor classification using Convolutional Neural Networks](https://www.linkedin.com/pulse/deep-learning-brain-tumor-classification-aruna-mohan/)
 - [Time series analysis of air travel and the impact of COVID-19](https://www.linkedin.com/pulse/time-series-analysis-air-travel-impact-covid-19-aruna-mohan/)
