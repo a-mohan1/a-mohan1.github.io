@@ -1,7 +1,8 @@
 ---
 layout: single
+classes: wide
 header:
-  overlay_image: "background2.png"
+  overlay_image: "background1.png"
 author_profile: true
 ---
 
