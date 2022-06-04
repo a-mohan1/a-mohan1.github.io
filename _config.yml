@@ -120,9 +120,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://a-mohan1.github.io"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=Rla9rfwAAAAJ"
+    #- label: "Google Scholar"
+    #  icon: "ai ai-google-scholar"
+    #  url: "https://scholar.google.com/citations?hl=en&user=Rla9rfwAAAAJ"
      
 # Site Footer
 footer:
