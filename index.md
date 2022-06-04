@@ -16,7 +16,7 @@ I earned my Ph.D. at MIT, where I conducted research on the mathematical modelin
     </figure>
 </div>
 
-As a postdoc, I developed and solved stochastic and field-theoretical models in C++ and MATLAB, and implemented reduced-order Molecular Dynamics (MD) simulations in an open source C++ MD code called [LAMMPS](https://www.lammps.org/). Here is a video from one of my MD simulations:
+As a postdoc, I developed and solved stochastic and field-theoretical models in C++ and MATLAB, and implemented reduced-order Molecular Dynamics (MD) simulations in [LAMMPS](https://www.lammps.org/), an open source C++ MD code. Here is a video from one of my MD simulations:
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
@@ -40,6 +40,3 @@ Here are some of my personal data science projects:
 - [Brain tumor classification using Convolutional Neural Networks](https://www.linkedin.com/pulse/deep-learning-brain-tumor-classification-aruna-mohan/)
 - [Time series analysis of air travel and the impact of COVID-19](https://www.linkedin.com/pulse/time-series-analysis-air-travel-impact-covid-19-aruna-mohan/)
 - [Predictive modeling of car accidents in Seattle based on supervised machine learning](https://www.linkedin.com/pulse/predictive-modeling-car-accidents-seattle-aruna-mohan/)
-
-
-
