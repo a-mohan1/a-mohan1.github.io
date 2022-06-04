@@ -16,7 +16,7 @@ I earned my Ph.D. at MIT, where I conducted research on the mathematical modelin
     </figure>
 </div>
 
-As a postdoc, I developed and solved stochastic and field-theoretical models in C++ and MATLAB, and implemented reduced-order Molecular Dynamics (MD) simulations using an open source C++ MD package called [LAMMPS](https://www.lammps.org/). Here is a video from one of my MD simulations:
+As a postdoc, I developed and solved stochastic and field-theoretical models in C++ and MATLAB, and implemented reduced-order Molecular Dynamics (MD) simulations in an open source C++ MD code called [LAMMPS](https://www.lammps.org/). Here is a video from one of my MD simulations:
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
