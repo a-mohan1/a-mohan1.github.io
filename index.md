@@ -12,7 +12,7 @@ I earned my Ph.D. at MIT, where I conducted research on the mathematical modelin
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
-        <iframe src="//www.youtube.com/embed/ZdjoFG8iMJg" frameborder="0"></iframe>
+        <iframe src="//www.youtube.com/embed/ZdjoFG8iMJg?rel=0" frameborder="0"></iframe>
     </figure>
 </div>
 
@@ -20,7 +20,7 @@ As a postdoc, I developed and solved stochastic and field-theoretical models in 
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
-        <iframe src="//www.youtube.com/embed/3zoMJs3IeZY" frameborder="0"></iframe>
+        <iframe src="//www.youtube.com/embed/3zoMJs3IeZY?rel=0" frameborder="0"></iframe>
     </figure>
 </div>
 
@@ -28,7 +28,7 @@ More recently, I completed the MicroMasters program in Statistics and Data Scien
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
-        <iframe src="//www.youtube.com/embed/qZxby-lWuBU" frameborder="0"></iframe>
+        <iframe src="//www.youtube.com/embed/qZxby-lWuBU?rel=0" frameborder="0"></iframe>
     </figure>
 </div>
 
