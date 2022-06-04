@@ -20,7 +20,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "a-mohan1/a-mohan1" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"IMG_0722.JPEG"
+logo                     : "photo.png" 
 masthead_title           : #" " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,9 +102,6 @@ author:
     #- label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"
     #  # url: "mailto:your.name@email.com"
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  # url: "https://your-website.com"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  # url: "https://twitter.com/"
@@ -120,6 +117,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/arunamohan"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://a-mohan1.github.io"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=Rla9rfwAAAAJ&view_op=list_works&gmla=AJsN-F57puplWXn_JOHCDjv7YTv3DMAu6_FVgHDrbUIqG3JNKBl5LLf1kZaROrlXPXTIUnRGHrUdMRTm8sYQSC_Ut6oZ0o8wq_auwniYbk8HW_tD0SUawwA" 
      
 # Site Footer
 footer:
