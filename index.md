@@ -33,7 +33,7 @@ More recently, I completed the MicroMasters program in Statistics and Data Scien
 </div>
 
 
-In my work in the battery industry, and previously in the materials and petrochemicals industry, I apply a combination of computational techniques (including physics-based modeling, molecular simulations and finite element based methods), statistical data analysis, data science and machine learning to design and optimize products and processes, using Python, C++ and MATLAB. 
+In my work in the battery industry, and previously in the materials and chemicals industry, I apply a combination of computational techniques (including physics-based modeling, molecular simulations and finite element based methods), statistical data analysis, data science and machine learning to design and optimize products and processes, using Python, C++ and MATLAB. 
 
 Here are some of my personal data science projects:
 
