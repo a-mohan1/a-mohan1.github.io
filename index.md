@@ -24,7 +24,7 @@ As a postdoc, I developed and solved stochastic and field-theoretical models in 
     </figure>
 </div>
 
-More recently, I completed the MicroMasters program in Statistics and Data Science from MITx. Here is a video I made of particle dynamics, this time based on a Gaussian process flow simulation in Python.
+More recently, I completed the [MicroMasters program in Statistics and Data Science from MITx](https://www.edx.org/micromasters/mitx-statistics-and-data-science). Here is a video I made of particle dynamics, this time based on a Gaussian process flow simulation in Python.
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
