@@ -24,7 +24,7 @@ As a postdoc, I developed and solved stochastic and field-theoretical models in 
     </figure>
 </div>
 
-More recently, I completed the [MicroMasters program in Statistics and Data Science from MITx](https://www.edx.org/micromasters/mitx-statistics-and-data-science). Here is a video I made of particle dynamics, this time based on a Gaussian process flow simulation in Python.
+More recently, I completed the [MicroMasters program in Statistics and Data Science from MITx](https://www.edx.org/micromasters/mitx-statistics-and-data-science). Here is a video of particle dynamics I developed for a project, this time based on a Gaussian process flow simulation in Python.
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
@@ -33,7 +33,7 @@ More recently, I completed the [MicroMasters program in Statistics and Data Scie
 </div>
 
 
-In my work in the battery industry, and previously in the materials and chemicals industry, I apply a combination of computational techniques (including physics-based modeling, molecular simulations and finite element based methods), statistical data analysis, data science and machine learning to design and optimize products and processes, using Python, C++ and MATLAB. 
+In my work in the battery industry, and previously in the materials and chemical industry, I apply a combination of computational techniques (including physics-based modeling, molecular simulations and finite element based methods), statistical data analysis, data science and machine learning to design and optimize products and processes, using Python, C++ and MATLAB. 
 
 Here are some of my personal data science projects:
 
