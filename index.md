@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 header:
-  image: "background2.png"
+  image: "/assets/images/background2.png"
 author_profile: true
 ---
 
