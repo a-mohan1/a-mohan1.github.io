@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "About Me"
 classes: wide
 header:
   image: "/assets/images/background2.png"
@@ -34,9 +35,3 @@ More recently, I completed the [MITx MicroMasters Program in Statistics and Data
 
 
 In my work in the battery industry, and previously in the materials and chemical industry, I have been applying a combination of computational techniques (including physics-based modeling, molecular simulations and finite element based methods), statistical data analysis, data science and machine learning to design and optimize materials and processes, using Python, C++ and MATLAB. 
-
-Here are some of my personal data science projects:
-
-- [Brain tumor classification using Convolutional Neural Networks](https://www.linkedin.com/pulse/deep-learning-brain-tumor-classification-aruna-mohan/)
-- [Time series analysis of air travel and the impact of COVID-19](https://www.linkedin.com/pulse/time-series-analysis-air-travel-impact-covid-19-aruna-mohan/)
-- [Predictive modeling of car accidents in Seattle based on supervised machine learning](https://www.linkedin.com/pulse/predictive-modeling-car-accidents-seattle-aruna-mohan/)
