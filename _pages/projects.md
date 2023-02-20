@@ -8,7 +8,7 @@ header:
 author_profile: true
 ---
 
-Here are some of my personal data science projects:
+I have worked on several projects applying machine learning and deep learning as part of coursework, in my job, and for self-learning. Here are some of my personal data science projects:
 
 - [Brain tumor classification using Convolutional Neural Networks](https://www.linkedin.com/pulse/deep-learning-brain-tumor-classification-aruna-mohan/)
 - [Time series analysis of air travel and the impact of COVID-19](https://www.linkedin.com/pulse/time-series-analysis-air-travel-impact-covid-19-aruna-mohan/)

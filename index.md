@@ -7,7 +7,9 @@ header:
 author_profile: true
 ---
 
-I leverage data science and computational science in my work to design new products and processes.  
+I leverage data science and computational science to design new products and processes.  
+
+In my work in the battery industry, and previously in the materials and chemical industry, I have been applying a combination of physics-based computational techniques, statistical data analysis, data science and machine learning to design and optimize systems and processes, using Python, C++ and MATLAB. 
 
 I earned my Ph.D. at MIT, where I conducted research on the mathematical modeling and stochastic simulation of complex flows. Here is a video from one of my stochastic simulations:
 
@@ -34,4 +36,4 @@ More recently, I completed the [MITx MicroMasters Program in Statistics and Data
 </div>
 
 
-In my work in the battery industry, and previously in the materials and chemical industry, I have been applying a combination of computational techniques (including physics-based modeling, molecular simulations and finite element based methods), statistical data analysis, data science and machine learning to design and optimize materials and processes, using Python, C++ and MATLAB. 
+
