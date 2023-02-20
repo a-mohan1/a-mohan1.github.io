@@ -109,7 +109,7 @@ analytics:
 author:
   name             : #"Aruna Mohan"
   avatar           : "/assets/images/photo2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Data Scientist and Computational Scientist #"Ph.D., Massachusetts Institute of Technology" # Note: Markdown is allowed
+  bio              : Data Scientist & Computational Scientist #"Ph.D., Massachusetts Institute of Technology" # Note: Markdown is allowed
   location         : "North America"
   email            :
   links:
@@ -131,12 +131,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/arunamohan"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=Rla9rfwAAAAJ"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://a-mohan1.github.io"
-    #- label: "Google Scholar"
-    #  icon: "ai ai-google-scholar"
-    #  url: "https://scholar.google.com/citations?hl=en&user=Rla9rfwAAAAJ"
 
 # Site Footer
 footer:
