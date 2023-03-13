@@ -25,7 +25,7 @@ As a postdoc, I developed and solved stochastic and statistical mechanical model
     </figure>
 </div>
 
-More recently, I completed the [MITx MicroMasters Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science). Here is a video of particle dynamics that I developed for a project, this time based on a Gaussian process flow simulation in Python.
+More recently, I completed the [MITx MicroMasters Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science). Here is a video of particle dynamics that I developed for a project, this time based on a Gaussian process flow simulation in Python:
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
