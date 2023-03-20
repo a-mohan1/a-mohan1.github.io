@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 ## Education
-* Ph.D., Massachusetts Institute of Technology
+* Ph.D., Chemical Engineering, Massachusetts Institute of Technology
     * Thesis on the Mathematical Modeling and Stochastic Simulation of Complex Fluids
     * Minor in Applied Mathematics
 
