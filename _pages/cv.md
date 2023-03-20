@@ -9,11 +9,9 @@ author_profile: true
 ---
 
 ## Education
-* Ph.D., Chemical Engineering, Massachusetts Institute of Technology
+* Ph.D., Massachusetts Institute of Technology
     * Thesis on the Mathematical Modeling and Stochastic Simulation of Complex Fluids
     * Minor in Applied Mathematics
-* M.S., Chemical Engineering Practice, Massachusetts Institute of Technology
-* Bachelors, Chemical Engineering, Indian Institute of Technology -- Delhi
 
 ## Continuing Education
 * [MicroMasters in Statistics and Data Science](https://credentials.edx.org/credentials/d3446efc119b461497f620a75ba4ac07/), Massachusetts Institute of Technology (MITx) on edX
