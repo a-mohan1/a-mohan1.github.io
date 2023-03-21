@@ -23,7 +23,7 @@ author_profile: true
 * Machine Learning with Python: from Linear Models to Deep Learning ([MITx 6.86x](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to))
 * Data Analysis: Statistical Modeling and Computation in Applications ([MITx 6.419x](https://www.edx.org/course/statistics-computation-and-applications))
 * Fundamentals of Statistics ([MITx 18.6501x](https://www.edx.org/course/fundamentals-of-statistics))
-* Probability ([MITX 6.431x](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)) 
+* Probability ([MITx 6.431x](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)) 
 * Numerical Methods for Partial Differential Equations (MIT 6.339)
 * Advanced Partial Differential Equations (MIT 18.306)
 * Advanced Asymptotic Methods (MIT 18.305)
