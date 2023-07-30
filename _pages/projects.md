@@ -8,7 +8,7 @@ header:
 author_profile: true
 ---
 
-I have worked on several projects applying machine learning and deep learning as part of coursework, in my work, and for self-learning. Here are some of my personal data science projects.
+I have worked on several projects applying machine learning and deep learning in my work, as part of coursework, and for self-learning. Here are some of my personal data science projects.
 
 ## Brain tumor classification using Convolutional Neural Networks
 
