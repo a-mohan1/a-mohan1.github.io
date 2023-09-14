@@ -12,7 +12,7 @@ author_profile: true
 * Ph.D., Chemical Engineering, Massachusetts Institute of Technology
     * Thesis on the Mathematical Modeling and Stochastic Simulation of Complex Fluids
     * Minor in Applied Mathematics
-* Bachelors, Chemical Engineering, Indian Institute of Technology, Delhi, India
+* Bachelors, Chemical Engineering, Indian Institute of Technology -- Delhi
     * Programming languages: C/ C++, Java, MATLAB
 
 ## Continuing Education
