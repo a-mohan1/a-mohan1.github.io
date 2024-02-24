@@ -9,7 +9,7 @@ author_profile: true
 
 I leverage data science and computational science to design and optimize novel products and processes. In my work spanning the materials, energy and biomedical industries, I have been applying a combination of physics-based computational methods, statistical data analysis, data science, machine learning and deep learning for technology development, using Python, C/ C++ and MATLAB. 
 
-I earned my Ph.D. at MIT, where I conducted research on the mathematical modeling and stochastic simulation of complex flows. Here is a video from one of my stochastic simulations:
+I earned my Ph.D. at MIT, where I conducted research on the mathematical modeling and stochastic simulation of complex flows. Here is a video of a DNA molecule in a microfluidic device from one of my stochastic simulations:
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
@@ -17,7 +17,7 @@ I earned my Ph.D. at MIT, where I conducted research on the mathematical modelin
     </figure>
 </div>
 
-As a postdoc, I developed and solved stochastic and statistical mechanical models of biomolecules and polymers in C++ and MATLAB, and implemented reduced-order Molecular Dynamics (MD) simulations in [LAMMPS](https://www.lammps.org/), an open source C++ MD code. Here is a video from one of my MD simulations:
+As a postdoc, I developed and solved stochastic and statistical mechanical models of biomolecules and polymers in C++ and MATLAB, and implemented reduced-order Molecular Dynamics (MD) simulations in [LAMMPS](https://www.lammps.org/), an open source C++ MD code. Here is a video of polymer dynamics from one of my MD simulations:
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
