@@ -19,6 +19,7 @@ author_profile: true
 ## Continuing Education
 * [MicroMasters in Statistics and Data Science](https://credentials.edx.org/credentials/d3446efc119b461497f620a75ba4ac07/), Massachusetts Institute of Technology (MITx) on edX
 * MIT IDSS [Applied Data Science Bootcamp](https://www.linkedin.com/in/arunamohan/overlay/1613015230698/single-media-viewer/?profileId=ACoAADHFiZIBLuthnVHOU_0CFzb08c6b-JzViKM)
+* [Generative Deep Learning with TensorFlow](https://www.coursera.org/account/accomplishments/verify/HWDU7JF9CEKK), Coursera
 * [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/BA3KC75PNRNR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), Coursera
 * IBM [Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8PLL5GPDU4QD)
 
