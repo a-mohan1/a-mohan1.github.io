@@ -33,5 +33,4 @@ More recently, I completed the [MITx MicroMasters Program in Statistics and Data
     </figure>
 </div>
 
-
-
+Outside of work, I enjoy traveling, watching documentaries and reading. My favorite travel destination so far has been [Heraklion](/assets/images/knossos.JPEG), which I was inspired to visit by [this](https://www.bbc.co.uk/programmes/p00tcvzl/episodes/guide) awesome documentary. 
