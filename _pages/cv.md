@@ -23,7 +23,7 @@ author_profile: true
 * [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/BA3KC75PNRNR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), Coursera
 * IBM [Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8PLL5GPDU4QD)
 
-## Data Science and Math Courses
+## Data Science and Math Coursework
 * Machine Learning with Python: from Linear Models to Deep Learning ([MITx 6.86x](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to))
 * Data Analysis: Statistical Modeling and Computation in Applications ([MITx 6.419x](https://www.edx.org/course/statistics-computation-and-applications))
 * Fundamentals of Statistics ([MITx 18.6501x](https://www.edx.org/course/fundamentals-of-statistics))
