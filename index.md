@@ -33,4 +33,7 @@ More recently, I completed the [MITx MicroMasters Program in Statistics and Data
     </figure>
 </div>
 
-Outside of work, I enjoy traveling, watching documentaries, reading and hiking. My favorite travel destination so far has been [Heraklion](/_pages/travel.md), which I was inspired to visit by [this](https://www.bbc.co.uk/programmes/p00tcvzl/episodes/guide) awesome documentary. 
+
+
+<!-- + Outside of work, I enjoy traveling, watching documentaries, reading and hiking. My favorite travel destination so far has been [Heraklion](/_pages/travel.md), which I was inspired to visit by [this](https://www.bbc.co.uk/programmes/p00tcvzl/episodes/guide) awesome documentary. + -->
+
