@@ -33,7 +33,7 @@ More recently, I completed the [MITx MicroMasters Program in Statistics and Data
     </figure>
 </div>
 
-
+In my current and previous work experiences, I have delivered machine learning solutions that have driven innovation in several domains including energy, materials, and healthcare. My recent work has included explainable AI for heart disease diagnosis from ECG data,  electricity price forecasting and optimization models to maximize battery revenue in energy markets, anomaly detection methods based on unsupervised and generative models to automate the detection of anomalous time series patterns to ensure safe battery operations, as well as time series analysis, forecasting, regression, and classification models for product design and optimization.
 
 <!-- + Outside of work, I enjoy traveling, watching documentaries, reading and hiking. My favorite travel destination so far has been [Heraklion](/_pages/travel.md), which I was inspired to visit by [this](https://www.bbc.co.uk/programmes/p00tcvzl/episodes/guide) awesome documentary. + -->
 
