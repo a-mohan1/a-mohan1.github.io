@@ -133,7 +133,7 @@ author:
       url: "https://www.linkedin.com/in/arunamohan"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=Rla9rfwAAAAJ"
+      url: "https://scholar.google.com/citations?hl=en&user=Rla9rfwAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://a-mohan1.github.io"
