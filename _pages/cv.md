@@ -61,4 +61,4 @@ author_profile: true
 * Gas management for metal-air batteries, US 20240113383A1, Filed Jul 13, 2023 ([Link](https://patents.google.com/patent/US20240113383A1)).
 * Surfactants from sulfonation of aromatic ethers, US 16/859,274, Filed Apr 27, 2020 ([Link](https://patents.google.com/patent/US20200377450A1/en)).
 * Capsules, systems and methods for targeted delivery of chemicals into multiphase environments, US 16/542,772, Filed Aug 16, 2019 ([Link](https://patents.google.com/patent/US20200063028A1/en)). 
-* Unsupervised and semi-supervised methods for automated anomaly detection in battery energy storage systems (Disclosed/ under review).
+* Unsupervised and semi-supervised methods for automated anomaly detection in battery energy storage systems (Disclosed/ in preparation).
