@@ -39,3 +39,26 @@ author_profile: true
 * Optimization
 * Probability and Stochastic Processes
 * Data Structures
+
+## Peer-Reviewed Publications
+* X. Wang, B. Ozek, **A. Mohan**, A. Ravari, O. Zilbershot, F. Afghah, "RHYTHMBERT: A self-supervised language model based on latent representations of ECG waveforms for heart disease detection," submitted to IEEE ICASSP 2026.
+* **A. Mohan**, D. Elbers, O. Zilbershot, F. Afghah, D. Vorchheimer, "Deciphering heartbeat signatures: A Vision Transformer approach to explainable atrial fibrillation detection from ECG signals," 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2024 ([Link](https://ieeexplore.ieee.org/document/10782666/)).
+* G. Becker, C. M. Siefert, R. S. Tuminaro, H. Sun, D. M. Valiveti, **A. Mohan**, J. Yin and H. Huang, "High resolution viscous fingering simulation in miscible displacement using a p-adaptive discontinuous Galerkin method with algebraic multigrid preconditioner," Journal of Computational Physics, 374, 495, 2018 ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0021999118304571)).
+* Z. Mester, **A. Mohan** and G. H. Fredrickson, "Macro- and microphase separation in multifunctional supramolecular polymer networks," Macromolecules, 44, 9411, 2011 ([Link](https://pubs.acs.org/doi/10.1021/ma201551c)).
+* **A. Mohan**, R. Elliot and G. H. Fredrickson, "Field-theoretic model of inhomogeneous supramolecular polymer networks and gels," Journal of Chemical Physics, 133, 174903, 2010 ([Link](https://doi.org/10.1063/1.3497038)).
+* **A. Mohan**, A. B. Kolomeisky and M. Pasquali, "Polymer translocation through pores with complex geometries," Journal of Chemical Physics, 133, 024902, 2010 ([Link](https://doi.org/10.1063/1.3458821)). Selected to appear in the Virtual Journal of Biological Physics Research. Also selected for American Institute of Physics press release ([Link](https://www.eurekalert.org/news-releases/600398)).
+* **A. Mohan**, A. B. Kolomeisky and M. Pasquali, "Effect of charge distribution on the translocation of an inhomogeneously charged polymer through a nanopore," Journal of Chemical Physics, 128, 125104, 2008 ([Link](https://doi.org/10.1063/1.2868777)).
+* **A. Mohan** and P. S. Doyle, "Effect of disorder on DNA electrophoresis in a microfluidic array of obstacles," Physical Review E, 76, 040903, 2007 ([Link](https://doi.org/10.1103/PhysRevE.76.040903)).
+* **A. Mohan** and P. S. Doyle, "Stochastic modeling and simulation of DNA electrophoretic separation in a microfluidic obstacle array," Macromolecules, 40, 8794, 2007 ([Link](https://pubs.acs.org/doi/10.1021/ma071354e)).
+* **A. Mohan** and P. S. Doyle, "Unraveling of a tethered polymer chain in uniform solvent flow," Macromolecules, 40, 4301, 2007 ([Link](https://pubs.acs.org/doi/10.1021/ma070050p)).
+* **A. Mohan** and H. Brenner, "Thermophoretic motion of a slightly deformed sphere through a viscous fluid," SIAM Journal on Applied Mathematics, 66, 787, 2006 ([Link](https://epubs.siam.org/doi/10.1137/050632075)).
+* **A. Mohan** and H. Brenner, "An extension of Faxen's laws for nonisothermal flow around a sphere," Physics of Fluids, 17, 038107, 2005 ([Link](https://doi.org/10.1063/1.1858431)).
+
+## Patents and Patent Applications
+* Formation of in-situ activated injection fluids for enhanced oil recovery applications, US 11434416B2, Issued Sep 6, 2022 ([Link](https://patents.google.com/patent/US11434416B2/en)).
+* Method for selective extraction of surfactants from crude oil, US 10883055B2, Issued Jan 5, 2021 ([Link](https://patents.google.com/patent/US10883055B2/en)).
+* Construction of battery module and systems interfaces for metal-air batteries, US 20240072379A1, Filed Aug 23, 2023 ([Link](https://patents.google.com/patent/US20240072379A1/en)).
+* Gas management for metal-air batteries, US 20240113383A1, Filed Jul 13, 2023 ([Link](https://patents.google.com/patent/US20240113383A1)).
+* Surfactants from sulfonation of aromatic ethers, US 16/859,274, Filed Apr 27, 2020 ([Link](https://patents.google.com/patent/US20200377450A1/en)).
+* Capsules, systems and methods for targeted delivery of chemicals into multiphase environments, US 16/542,772, Filed Aug 16, 2019 ([Link](https://patents.google.com/patent/US20200063028A1/en)). 
+* Unsupervised and semi-supervised methods for automated anomaly detection in battery energy storage systems (Disclosed/ under review).
