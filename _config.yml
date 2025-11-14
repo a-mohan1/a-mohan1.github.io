@@ -109,7 +109,7 @@ analytics:
 author:
   name             : #"Aruna Mohan"
   avatar           : "/assets/images/photo2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Data Scientist & Computational Scientist #"Ph.D., Massachusetts Institute of Technology" # Note: Markdown is allowed
+  bio              : Machine Learning, Data Science, Computational Science #"Ph.D., Massachusetts Institute of Technology" # Note: Markdown is allowed
   location         : "North America"
   email            :
   links:
