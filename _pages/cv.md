@@ -42,7 +42,7 @@ author_profile: true
 * Data Structures
 
 ## Peer-Reviewed Publications
-* X. Wang, B. Ozek, **A. Mohan**, A. Ravari, O. Zilbershot and F. Afghah, "RHYTHMBERT: A self-supervised language model based on latent representations of ECG waveforms for heart disease detection," submitted to IEEE ICASSP 2026.
+* X. Wang, B. Ozek, **A. Mohan**, A. Ravari, O. Zilbershot and F. Afghah, "RHYTHMBERT: A self-supervised language model based on latent representations of ECG waveforms for heart disease detection," accepted at IEEE ICASSP 2026.
 * **A. Mohan**, D. Elbers, O. Zilbershot, F. Afghah and D. Vorchheimer, "Deciphering heartbeat signatures: A Vision Transformer approach to explainable atrial fibrillation detection from ECG signals," 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2024 ([Link](https://ieeexplore.ieee.org/document/10782666/)).
 * G. Becker, C. M. Siefert, R. S. Tuminaro, H. Sun, D. M. Valiveti, **A. Mohan**, J. Yin and H. Huang, "High resolution viscous fingering simulation in miscible displacement using a p-adaptive discontinuous Galerkin method with algebraic multigrid preconditioner," Journal of Computational Physics, 374, 495, 2018 ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0021999118304571)).
 * Z. Mester, **A. Mohan** and G. H. Fredrickson, "Macro- and microphase separation in multifunctional supramolecular polymer networks," Macromolecules, 44, 9411, 2011 ([Link](https://pubs.acs.org/doi/10.1021/ma201551c)).
