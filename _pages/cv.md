@@ -13,9 +13,9 @@ author_profile: true
     * Thesis on the Mathematical Modeling and Stochastic Simulation of Complex Fluids and Polymers
     * Minor in Applied Mathematics
     * GPA: 5.0/5.0
-* M.S., Chemical Engineering Practice, Massachusetts Institute of Technology
+* M.S., Chemical Engineering and Chemical Engineering Practice, Massachusetts Institute of Technology
     * GPA: 5.0/5.0
-* Bachelors, Chemical Engineering, Indian Institute of Technology -- Delhi
+* Bachelor's, Chemical Engineering, Indian Institute of Technology, Delhi
     * Programming languages: C/ C++, Java, MATLAB
     * GPA: 9.5/10.0
 
@@ -57,10 +57,11 @@ author_profile: true
 * **A. Mohan**, M. Bhargava and A. N. Bhaskarwar, "New pollution-preventing paints," Chemical World, 1, 39, 2002 ([Link](/assets/pubs/paints_article_ChemicalWorld2002.pdf)).
 
 ## Patents and Patent Applications
-* Formation of in-situ activated injection fluids for enhanced oil recovery applications, US 11434416B2, Issued Sep 6, 2022 ([Link](https://patents.google.com/patent/US11434416B2/en)).
-* Method for selective extraction of surfactants from crude oil, US 10883055B2, Issued Jan 5, 2021 ([Link](https://patents.google.com/patent/US10883055B2/en)).
-* Construction of battery module and systems interfaces for metal-air batteries, US 20240072379A1, Filed Aug 23, 2023 ([Link](https://patents.google.com/patent/US20240072379A1/en)).
-* Gas management for metal-air batteries, US 20240113383A1, Filed Jul 13, 2023 ([Link](https://patents.google.com/patent/US20240113383A1)).
-* Surfactants from sulfonation of aromatic ethers, US 16/859,274, Filed Apr 27, 2020 ([Link](https://patents.google.com/patent/US20200377450A1/en)).
-* Capsules, systems and methods for targeted delivery of chemicals into multiphase environments, US 16/542,772, Filed Aug 16, 2019 ([Link](https://patents.google.com/patent/US20200063028A1/en)). 
-* Unsupervised and semi-supervised methods for automated anomaly detection in battery energy storage systems (Disclosed/ in preparation, 2025).
+* Formation of in-situ activated injection fluids for enhanced oil recovery applications, US 11434416B2. Issued Sep 6, 2022 ([Link](https://patents.google.com/patent/US11434416B2/en)).
+* Method for selective extraction of surfactants from crude oil, US 10883055B2. Issued Jan 5, 2021 ([Link](https://patents.google.com/patent/US10883055B2/en)).
+* Construction of battery module and systems interfaces for metal-air batteries, US 20240072379A1. Filed Aug 23, 2023 ([Link](https://patents.google.com/patent/US20240072379A1/en)).
+* Gas management for metal-air batteries, US 20240113383A1. Filed Jul 13, 2023 ([Link](https://patents.google.com/patent/US20240113383A1)).
+* Surfactants from sulfonation of aromatic ethers, US 16/859,274. Filed Apr 27, 2020 ([Link](https://patents.google.com/patent/US20200377450A1/en)).
+* Capsules, systems and methods for targeted delivery of chemicals into multiphase environments, US 16/542,772. Filed Aug 16, 2019 ([Link](https://patents.google.com/patent/US20200063028A1/en)). 
+* System and method for symbolic language modeling of electrocardiogram signals for cardiovascular disease detection. Provisional, 2026.
+* Systems and methods for detecting intermittent loose connection in battery energy storage systems. Provisional, 2025.
