@@ -7,7 +7,7 @@ header:
 author_profile: true
 ---
 
-I leverage machine learning, data science, and computational science to design and optimize novel technologies. In my work spanning the healthcare and biotechnology, energy, and materials industries, I have been applying a combination of machine learning, deep learning, statistical data analysis, data science, and physics-based computational modeling for technology development, using Python, C/ C++, and MATLAB. 
+I leverage machine learning, data science, and computational science to design and optimize novel technologies. In my work spanning the healthcare and biotechnology, energy, and materials industries, I have been applying a combination of machine learning, deep learning, statistical data analysis, data science, and physics-based computational modeling for technology development, using Python, C/C++, and MATLAB. 
 
 I earned my Ph.D. at MIT, where I conducted research on the mathematical modeling and stochastic simulation of complex flows. This work was aimed at optimizing the design and operation of microfluidic devices for DNA processing. Here is a video of DNA dynamics in a microfluidic device from one of my stochastic simulations:
 
@@ -33,7 +33,7 @@ More recently, I completed the [MITx MicroMasters Program in Statistics and Data
     </figure>
 </div>
 
-In my current and previous work experiences, I have delivered machine learning solutions that have driven innovation in several domains including energy, healthcare, and materials. My recent work has included explainable AI for heart disease diagnosis from ECG data,  electricity price forecasting and optimization models to maximize battery revenue in energy markets, anomaly detection methods based on unsupervised and generative models to automate the detection of anomalous time series patterns and ensure safe battery operations, as well as time series analysis, forecasting, regression, and classification models for product design and optimization.
+In my current and previous work experiences, I have delivered machine learning solutions that have driven innovation in several domains including energy, healthcare, and materials. My recent work has included explainable AI for heart disease diagnosis from ECG data,  electricity price forecasting and optimization models to maximize battery revenue in energy markets, anomaly detection methods based on unsupervised and semi-supervised generative models to automate the detection of anomalous time series patterns and ensure safe battery operations, as well as time series analysis, forecasting, regression, and classification models for product design and optimization.
 
 Outside of work, I enjoy traveling, hiking, reading, and watching documentaries. My favorite travel destination so far has been [Heraklion](/_pages/travel.md).
 

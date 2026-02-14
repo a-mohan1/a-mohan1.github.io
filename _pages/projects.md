@@ -8,7 +8,7 @@ header:
 author_profile: true
 ---
 
-I have worked on several projects applying machine learning and deep learning in my work, as part of coursework, and for self-learning. Here are some of my published and/ or personal machine learning projects.
+I have worked on several projects applying machine learning and deep learning in my work, as part of coursework, and for self-learning. Here are some of my published and/or personal machine learning projects.
 
 ## Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals
 

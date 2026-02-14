@@ -10,13 +10,13 @@ author_profile: true
 
 ## Education
 * Ph.D., Chemical Engineering, Massachusetts Institute of Technology
-    * Thesis on the Mathematical Modeling and Stochastic Simulation of Complex Fluids and Polymers
-    * Minor in Applied Mathematics
+    * Thesis: Mathematical Modeling and Stochastic Simulation of Complex Fluids and Polymers
+    * Minor: Applied Mathematics
     * GPA: 5.0/5.0
 * M.S., Chemical Engineering and Chemical Engineering Practice, Massachusetts Institute of Technology
     * GPA: 5.0/5.0
 * Bachelor's, Chemical Engineering, Indian Institute of Technology, Delhi
-    * Programming languages: C/ C++, Java, MATLAB
+    * Programming languages: C/C++, Java, MATLAB
     * GPA: 9.5/10.0
 
 ## Continuing Education
