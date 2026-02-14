@@ -7,7 +7,7 @@ header:
 author_profile: true
 ---
 
-I leverage machine learning, data science, and computational science to design and optimize novel technologies. In my work spanning the healthcare and biotechnology, energy, and materials industries, I have been applying a combination of machine learning, deep learning, statistical data analysis, data science, and physics-based computational modeling for technology development, using Python, C/C++, and MATLAB. 
+I leverage machine learning, data science, and computational science to design and optimize novel technologies. In my work spanning the healthcare and biotechnology, energy, and materials industries, I have been applying a combination of machine learning, deep learning, generative AI, statistical data analysis, data science, and physics-based computational modeling for technology development, using Python, C/C++, and MATLAB. 
 
 I earned my Ph.D. at MIT, where I conducted research on the mathematical modeling and stochastic simulation of complex flows. This work was aimed at optimizing the design and operation of microfluidic devices for DNA processing. Here is a video of DNA dynamics in a microfluidic device from one of my stochastic simulations:
 
