@@ -39,7 +39,7 @@ author_profile: true
 * Statistical Mechanics (MIT 8.333)
 * Optimization
 * Probability and Stochastic Processes
-* Data Structures
+* Data Structures and Algorithms
 
 ## Peer-Reviewed Publications
 * X. Wang, B. Ozek, **A. Mohan**, A. Ravari, O. Zilbershot and F. Afghah, "RHYTHMBERT: A self-supervised language model based on latent representations of ECG waveforms for heart disease detection," accepted at IEEE ICASSP 2026.
