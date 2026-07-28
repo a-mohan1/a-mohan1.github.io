@@ -63,5 +63,6 @@ author_profile: true
 * Gas management for metal-air batteries, US 20240113383A1. Filed Jul 13, 2023 ([Link](https://patents.google.com/patent/US20240113383A1)).
 * Surfactants from sulfonation of aromatic ethers, US 16/859,274. Filed Apr 27, 2020 ([Link](https://patents.google.com/patent/US20200377450A1/en)).
 * Capsules, systems and methods for targeted delivery of chemicals into multiphase environments, US 16/542,772. Filed Aug 16, 2019 ([Link](https://patents.google.com/patent/US20200063028A1/en)). 
+* Cardiac dysfunction detection from multi-lead electrocardiograms using patch-based vision transformer architecture. Provisional, 2026.
 * System and method for symbolic language modeling of electrocardiogram signals for cardiovascular disease detection. Provisional, 2026.
 * Systems and methods for detecting intermittent loose connection in battery energy storage systems. Provisional, 2025.
