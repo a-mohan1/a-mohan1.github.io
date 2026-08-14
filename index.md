@@ -37,4 +37,4 @@ In my current and previous work experiences, I have delivered machine learning s
 
 <!-- + Outside of work, I enjoy traveling, hiking, reading, and watching documentaries. My favorite travel destination so far has been [Heraklion](/_pages/travel.md). + -->
 
-Outside of work, I enjoy traveling, hiking, watching documentaries, and reading. My favorite travel destination so far has been [Heraklion](/_pages/travel.md), which I was inspired to visit by [this](https://www.bbc.co.uk/programmes/p00tcvzl/episodes/guide) awesome documentary. 
+Outside of work, I like traveling, hiking, watching documentaries, and reading. My favorite travel destination so far has been [Heraklion](/_pages/travel.md), which I was inspired to visit by [this](https://www.bbc.co.uk/programmes/p00tcvzl/episodes/guide) awesome documentary. 
