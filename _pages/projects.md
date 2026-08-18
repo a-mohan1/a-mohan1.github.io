@@ -20,6 +20,12 @@ Abstract: Electrocardiogram (ECG) analysis is crucial for diagnosing heart disea
 
 This work was accepted at ICASSP 2026. The paper is available [here](https://arxiv.org/abs/2602.23060).
 
+## A Vision Transformer for ECG-Based Detection of Left Ventricular Systolic Dysfunction Across Multiple Clinical Sites
+
+Abstract: Reduced left ventricular ejection fraction (LVEF) is frequently asymptomatic and often detected only after advanced heart failure develops. Electrocardiograms are recorded routinely yet underused for this condition, because reduced LVEF has no single diagnostic waveform. We trained an ensemble of vision transformers from scratch to detect reduced LVEF (≤40%) from 12-lead ECGs, analyzing each heartbeat individually, using 10,142 patients across seven sites in three US health systems. In a held-out external cohort of 4,092 patients from three geographically independent US clinical sites at a real-world reduced-LVEF prevalence of 8.72%, the model achieved an AUROC of 0.88 (95% CI 0.86-0.89), sensitivity 81.2%, specificity 81.0%, and negative predictive value 97.8%. Sensitivity remained high across sex, race, ethnicity, and comorbidity subgroups, while specificity was lower in older patients and those with atrial fibrillation or cardiomyopathy. Beat-level attention maps provided interpretability into the model's predictions, showing consistent focus on the QRS complex rather than the P wave. These findings support the potential of routine ECGs as a scalable first-pass triage step to identify patients who should undergo echocardiography for reduced ejection fraction across diverse patient populations.
+
+This paper under review and the preprint is available [here](https://arxiv.org/abs/2608.14723).
+
 # Projects
 
 ## Brain Tumor Classification Using Convolutional Neural Networks

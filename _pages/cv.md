@@ -42,6 +42,7 @@ author_profile: true
 * Data Structures and Algorithms
 
 ## Peer-Reviewed Publications
+* B. Ozek, **A. Mohan**,  D. Vorchheimer, D. Weiss, E. Kedar, T. Sobol, O. Zilbershot and F. Afghah, "A Vision Transformer for ECG-based detection of left ventricular systolic dysfunction across multiple clinical sites," under review ([Link](https://arxiv.org/abs/2608.14723)).
 * X. Wang, B. Ozek, **A. Mohan**, A. Ravari, O. Zilbershot and F. Afghah, "RHYTHMBERT: A self-supervised language model based on latent representations of ECG waveforms for heart disease detection," accepted at IEEE ICASSP 2026 ([Link](https://arxiv.org/abs/2602.23060)).
 * **A. Mohan**, D. Elbers, O. Zilbershot, F. Afghah and D. Vorchheimer, "Deciphering heartbeat signatures: A Vision Transformer approach to explainable atrial fibrillation detection from ECG signals," 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2024 ([Link](https://ieeexplore.ieee.org/document/10782666/)).
 * G. Becker, C. M. Siefert, R. S. Tuminaro, H. Sun, D. M. Valiveti, **A. Mohan**, J. Yin and H. Huang, "High resolution viscous fingering simulation in miscible displacement using a p-adaptive discontinuous Galerkin method with algebraic multigrid preconditioner," Journal of Computational Physics, 374, 495, 2018 ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0021999118304571)).
