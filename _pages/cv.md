@@ -27,7 +27,7 @@ author_profile: true
 * [Machine Learning in Production](https://www.coursera.org/account/accomplishments/verify/3CYDR9I0UKBK), DeepLearning.AI 
 * [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8PLL5GPDU4QD)
 
-## Data Science and Math Coursework
+## Relevant Coursework
 * Machine Learning with Python: from Linear Models to Deep Learning ([MITx 6.86x](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to))
 * Data Analysis: Statistical Modeling and Computation in Applications ([MITx 6.419x](https://www.edx.org/course/statistics-computation-and-applications))
 * Fundamentals of Statistics ([MITx 18.6501x](https://www.edx.org/course/fundamentals-of-statistics))
