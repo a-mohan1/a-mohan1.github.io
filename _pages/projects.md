@@ -28,6 +28,8 @@ This paper under review and the preprint is available [here](https://arxiv.org/a
 
 # Projects
 
+These exploratory projects from 2020/early 2021 were weekend experiments during COVID, undertaken to broaden my ML applications beyond my primary work.
+
 ## Brain Tumor Classification Using Convolutional Neural Networks
 
 In this project, I implemented CNNs for the classification of brain tumors from MRI images. I experimented with several CNN architectures, and also applied the LeNet-5 and ResNet architectures, as well as transfer learning with the VGG-16 model.  For hyperparameter optimization, I applied grid search cross-validation, random search and Bayesian optimization with the Keras Tuner, and AutoKeras. Here is my [LinkedIn article](https://www.linkedin.com/pulse/deep-learning-brain-tumor-classification-aruna-mohan/) describing this work. My code is available [here](https://github.com/a-mohan1/CNN-image-classification).
