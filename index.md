@@ -17,7 +17,7 @@ I earned my Ph.D. at MIT, where I conducted research on the mathematical modelin
     </figure>
 </div>
 
-As a postdoc, I developed and solved stochastic and statistical mechanical models of biomolecules and polymers in C++ and MATLAB, and implemented reduced-order Molecular Dynamics (MD) simulations in [LAMMPS](https://www.lammps.org/), an open-source C++ MD code. This work guided the design of high-performance materials. Here is a video of polymer dynamics from one of my MD simulations:
+As a postdoc, I developed and solved stochastic and statistical mechanical models of biomolecules and polymers in C++ and MATLAB, and implemented reduced-order molecular dynamics (MD) simulations in [LAMMPS](https://www.lammps.org/), an open-source C++ MD code. This work guided the design of high-performance materials. Here is a video of polymer dynamics from one of my MD simulations:
 
 <div class="video">
     <figure style="width: 400px" class="align-center">
