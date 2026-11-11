@@ -34,7 +34,7 @@ This paper is under review, and the preprint is available [here](https://arxiv.o
 
 # Projects
 
-These exploratory projects from 2020/early 2021 were weekend experiments during COVID, undertaken to broaden my ML applications beyond my primary work.
+These exploratory projects from 2020 and early 2021 were weekend experiments during COVID, undertaken to broaden my ML applications beyond my primary work.
 
 ## Brain Tumor Classification Using Convolutional Neural Networks
 
